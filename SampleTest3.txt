@@ -1,3 +1,11 @@
 This is first code file.
 
 I am Java Developer and I am developing a Gaming Project
+
+******Calculator*****
+
+Modified of Substraction
+
+
+
+*****************************
